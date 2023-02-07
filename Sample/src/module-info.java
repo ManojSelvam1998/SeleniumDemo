@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Ajith
- *
- */
-module Sample {
-}
